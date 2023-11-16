@@ -3,4 +3,5 @@ HTML &amp; CSS Full Course - Beginner to Pro: I'm on a journey to learn, relearn
 
 # CSS basics with buttons 
 ![Screenshot][buttons]
+
 [buttons]: buttons.png
