@@ -1,0 +1,111 @@
+.subscribe-btn {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  padding: 10px 16px 10px 16px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-left: 20px;
+  transition: opacity 0.15s;
+  vertical-align: top;
+}
+
+.subscribe-btn:hover {
+  opacity: 0.8;
+}
+
+.subscribe-btn:active {
+  opacity: 0.5;
+}
+
+.join-btn {
+  background-color: white;
+  border-color: rgb(39, 84, 199);
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(39, 84, 199);
+  border-radius: 1px;
+  cursor: pointer;
+  padding: 9px 16px 9px 16px;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.join-btn:hover {
+  background-color: rgb(39, 84, 199);
+  color: #fff;
+}
+
+.join-btn:active {
+  opacity: 0.7;
+}
+
+.tweet-btn {
+  background-color: #2078f6;
+  color: white;
+  border: none;
+  height: 36px;
+  width: 74px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+}
+
+.tweet-btn:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.video-title {
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.video-stats {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-author {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-desc {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+.apple-text {
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: #fff;
+  text-align: center;
+  padding: 18px 18px;
+}
+
+.sharp-link {
+  cursor: pointer;
+}
+
+.sharp-link:hover {
+  text-decoration: underline;
+}
